@@ -8,4 +8,5 @@ class BasicControllerApplication
 
 fun main(args: Array<String>) {
 	runApplication<BasicControllerApplication>(*args)
+	var newBadge: String? = "Still don't know how it works"
 }
