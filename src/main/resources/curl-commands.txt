@@ -2,7 +2,7 @@ Greeting Controller:
 ====================
 curl -i http://localhost:8080/v1/greetings/jamiro
 
-Invoke-WebRequest -Uri http://localhost:8080/v1/greetings/John -Method GET
+Invoke-WebRequest -Uri http://localhost:8080/v1/greetings/Jamiro -Method GET
 
 
 ===================
